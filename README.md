@@ -17,7 +17,7 @@
    
 This is a program for educational purpose. I do this for to work the congruence in mathematics. *I'm not responsable for possible malicious uses of this program !*
 
-The program is the implementation in C language of one algorithme for to find the RIB keys of a account with four informations : bank code, guichet code, the first and second part of  a account number.
+The program is the implementation in C language of one algorithm for to find the RIB keys of a account with four informations : bank code, guichet code, the first and second part of  a account number.
 
 
 For use this program you need a IDE or C compiler, you can use your own bank informations and you can make all modification that you want. You just must mention my name in your source code.
